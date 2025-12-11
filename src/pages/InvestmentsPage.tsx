@@ -172,7 +172,7 @@ export const InvestmentsPage = () => {
                     dataKey="value"
                     onMouseEnter={(data) => setActiveSlice(data.name)}
                     onMouseLeave={() => setActiveSlice(null)}
-                    label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                    label={({ name, percent }) => `${name} ${((percent ?? 0) * 100).toFixed(0)}%`}
                   >
                     {pieData.map((_, index) => (
                       <Cell key={index} fill={COLORS[index % COLORS.length]} />
