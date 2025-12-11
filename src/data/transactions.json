@@ -1,0 +1,76 @@
+[
+  {
+    "id": "txn-001",
+    "type": "income",
+    "amount": 3500.00,
+    "description": "Salaire mensuel",
+    "date": "2024-12-01",
+    "category": "Salaire",
+    "status": "completed"
+  },
+  {
+    "id": "txn-002",
+    "type": "expense",
+    "amount": -89.50,
+    "description": "Courses supermarché",
+    "date": "2024-12-02",
+    "category": "Alimentation",
+    "status": "completed"
+  },
+  {
+    "id": "txn-003",
+    "type": "expense",
+    "amount": -45.00,
+    "description": "Abonnement Netflix",
+    "date": "2024-12-03",
+    "category": "Divertissement",
+    "status": "completed"
+  },
+  {
+    "id": "txn-004",
+    "type": "transfer",
+    "amount": -500.00,
+    "description": "Virement vers épargne",
+    "date": "2024-12-04",
+    "category": "Épargne",
+    "recipient": "Compte Épargne",
+    "status": "completed"
+  },
+  {
+    "id": "txn-005",
+    "type": "income",
+    "amount": 250.00,
+    "description": "Remboursement",
+    "date": "2024-12-05",
+    "category": "Autre",
+    "status": "completed"
+  },
+  {
+    "id": "txn-006",
+    "type": "expense",
+    "amount": -1200.00,
+    "description": "Loyer",
+    "date": "2024-12-06",
+    "category": "Logement",
+    "status": "completed"
+  },
+  {
+    "id": "txn-007",
+    "type": "expense",
+    "amount": -65.00,
+    "description": "Restaurant",
+    "date": "2024-12-07",
+    "category": "Restaurant",
+    "status": "completed"
+  },
+  {
+    "id": "txn-008",
+    "type": "income",
+    "amount": 150.00,
+    "description": "Vente en ligne",
+    "date": "2024-12-08",
+    "category": "Vente",
+    "status": "completed"
+  }
+]
+

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "inv-001",
+    "name": "Actions Tech",
+    "symbol": "TECH",
+    "amount": 5000,
+    "currentValue": 5450,
+    "return": 450,
+    "returnPercentage": 9.0,
+    "category": "Actions"
+  },
+  {
+    "id": "inv-002",
+    "name": "Fonds Éthique",
+    "symbol": "ETHIC",
+    "amount": 3000,
+    "currentValue": 3120,
+    "return": 120,
+    "returnPercentage": 4.0,
+    "category": "Fonds"
+  },
+  {
+    "id": "inv-003",
+    "name": "Crypto Portfolio",
+    "symbol": "CRYPTO",
+    "amount": 2000,
+    "currentValue": 2100,
+    "return": 100,
+    "returnPercentage": 5.0,
+    "category": "Crypto"
+  }
+]
+
